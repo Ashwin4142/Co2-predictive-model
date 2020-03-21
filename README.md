@@ -1,5 +1,5 @@
 
-# Path Finder
+# Predictive Models
 
 Project Name: The Prediction of carbon emission of different Countries using multiple factors. 
 
